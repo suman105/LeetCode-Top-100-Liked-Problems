@@ -38,8 +38,8 @@ I have solved all **100 most liked problems** on LeetCode, and the solutions are
 To get a local copy, use the following command:  
 
 ```sh
-git clone https://github.com/suman105/LeetCode-75.git
-cd LeetCode-75
+https://github.com/suman105/LeetCode-Top-100-Liked-Problems.git
+cd LeetCode-Top-100-Liked-Problems
 ```
 
 ## ⚙️ **Prerequisites**
