@@ -25,8 +25,7 @@ The solutions are categorized based on topics, making it easy to navigate:
 - **Linked Lists**
 - **Matrix**
 - **Sliding Window**
-- **Stack**
-- **Two Pointers, Trie**, and more 
+- **Stack, Two Pointers, Trie**, and more 
 
 ## 📑 LeetCode 75 Problem List
 
