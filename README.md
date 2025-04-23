@@ -37,7 +37,7 @@ I have solved all **100 most liked problems** on LeetCode, and the solutions are
 To get a local copy, use the following command:  
 
 ```sh
-https://github.com/suman105/LeetCode-Top-100-Liked-Problems.git
+git clone https://github.com/suman105/LeetCode-Top-100-Liked-Problems.git
 cd LeetCode-Top-100-Liked-Problems
 ```
 
